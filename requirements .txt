@@ -1,0 +1,6 @@
+gradio==3.44.0
+groq==1.1.0
+python-dotenv==1.0.0
+SpeechRecognition==3.10.0
+pydub==0.25.1
+fpdf==1.7.2
